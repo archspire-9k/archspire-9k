@@ -4,7 +4,7 @@
  <div>
   <a href="https://github.com/archspire-9k">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide=issues"/>
-   <img align="center" height="170" src="https://streak-stats.demolab.com?user=archspire-9k&theme=vue&hide_border=true&exclude_days=Sun%2CSat"/>
+   <img align="center" height="170" src="https://streak-stats.demolab.com?user=archspire-9k&theme=vue&hide_border=false&exclude_days=Sun%2CSat"/>
   
 </div>
  
