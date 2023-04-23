@@ -3,9 +3,9 @@
 
  <div>
   <a href="https://github.com/archspire-9k">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide=issues"/>
-   <img align="center" height="170" src="https://streak-stats.demolab.com?user=archspire-9k&theme=vue-dark&exclude_days=Sun%2CSat"/>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archspire-9k&theme=zenburn"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=solarized&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://streak-stats.demolab.com?user=archspire-9k&theme=solarized&exclude_days=Sun%2CSat"/>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archspire-9k&theme=solarized"/>
 </div>
  
  <div>
