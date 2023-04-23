@@ -3,7 +3,7 @@
 
  <div>
   <a href="https://github.com/archspire-9k">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archspire-9k&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height="170" src="https://streak-stats.demolab.com?user=archspire-9k&theme=radical&hide_border=true&exclude_days=Sun%2CSat"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
