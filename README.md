@@ -18,9 +18,12 @@
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+   
+<div> 
   
+ </br>
 </br>
  
-  ![Snake animation](https://github.com/archspire-9k/archspire-9k/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
