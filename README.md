@@ -32,7 +32,5 @@
   
  </br>
 </br>
- 
-  ![Snake animation](https://github.com/archspire-9k/archspire-9k/blob/output/github-contribution-grid-snake.svg)
- 
+  <img src="https://raw.githubusercontent.com/archspire-9k/archspire-9k/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
