@@ -3,9 +3,9 @@
 
  <div>
   <a href="https://github.com/archspire-9k">
-   <img align="center" height="170" src="https://awesome-github-stats.azurewebsites.net/user-stats/archspire-9k?cardType=level&theme=radical&preferLogin=false"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
    <img align="center" height="170" src="https://streak-stats.demolab.com?user=archspire-9k&theme=radical&hide_border=true&exclude_days=Sun%2CSat"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  
 </div>
  
  ## Skills
