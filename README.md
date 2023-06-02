@@ -31,7 +31,6 @@
   
 ## Commits
 <div> 
-  
  </br>
 </br>
   <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
