@@ -6,8 +6,8 @@
    <img align="center" height = 150px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archspire-9k&theme=solarized"/>
    <img align="center" height = 150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=archspire-9k&theme=solarized-light&layout=compact&langs_count=7&hide=cmake"/>
    </br>
-   <img align="center" src="https://streak-stats.demolab.com?user=archspire-9k&theme=solarized-light"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
+   <img align="center" height = 150px src="https://streak-stats.demolab.com?user=archspire-9k&theme=solarized-light"/>
+   <img align="center" height = 150px src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
    
    
 </p>
