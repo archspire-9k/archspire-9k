@@ -3,8 +3,8 @@
 
  <p align="center">
   <a href="https://github.com/archspire-9k">
-   <img align="center" height = 175px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archspire-9k&theme=solarized"/>
-   <img align="center" height = 175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=archspire-9k&theme=solarized-light&layout=compact&langs_count=7&hide=cmake"/>
+   <img align="center" height = 185px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archspire-9k&theme=solarized"/>
+   <img align="center" height = 185px src="https://github-readme-stats.vercel.app/api/top-langs/?username=archspire-9k&theme=solarized-light&layout=compact&langs_count=7&hide=cmake"/>
    </br>
    <img align="center" height = 180px src="https://streak-stats.demolab.com?user=archspire-9k&theme=solarized-light"/>
    <img align="center" height = 180px src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
