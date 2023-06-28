@@ -9,7 +9,7 @@
    </br>
  
    <img align="center" height = 170px src="https://streak-stats.demolab.com?user=archspire-9k&theme=solarized-light"/>
-   <img align="center" height = 170px src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=solarized-light&include_all_commits=truecount_private=true"/>
+   <img align="center" height = 170px src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=solarized-light&include_all_commits=true"/>
 </p>
 
  <div>
