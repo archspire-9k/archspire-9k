@@ -2,8 +2,8 @@
 </br>
  <p align="center">
   <a href="https://github.com/archspire-9k">
-   <img align="center" height = 170px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archspire-9k&theme=solarized&count_private=true"/>
-   <img align="center" height = 170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=archspire-9k&theme=solarized-light&layout=compact&langs_count=10&hide=cmake&count_private=true"/>
+   <img align="center" height = 171px src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archspire-9k&theme=solarized&count_private=true"/>
+   <img align="center" height = 171px src="https://github-readme-stats.vercel.app/api/top-langs/?username=archspire-9k&theme=solarized-light&layout=compact&langs_count=10&hide=cmake&count_private=true"/>
    </br>
  
    <img align="center" height = 170px src="https://streak-stats.demolab.com?user=archspire-9k&theme=solarized-light"/>
