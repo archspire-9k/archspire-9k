@@ -6,7 +6,7 @@
    <img align="center" height = 171px src="https://github-readme-stats.vercel.app/api/top-langs/?username=archspire-9k&theme=solarized-light&layout=compact&langs_count=10&hide=cmake&count_private=true"/>
    </br>
  
-   <img align="center" height = 170px src="https://streak-stats.demolab.com?user=archspire-9k&theme=solarized-light"/>
+   <img align="center" height = 170px src="https://streak-stats.demolab.com?user=archspire-9k&theme=solarized-light&count_private=true"/>
    <img align="center" height = 170px src="https://github-readme-stats.vercel.app/api?username=archspire-9k&show_icons=true&theme=solarized-light&count_private=true"/>
 </p>
 
